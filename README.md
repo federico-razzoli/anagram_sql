@@ -1,7 +1,7 @@
 anagram_sql
 ===========
 
-Anagram game, implemented with MariaDB/MySQL Stored Procedures... without a particular readon :) 
+Anagram game, implemented with MariaDB/MySQL Stored Procedures... without a particular reason :) 
 
 Hot to play
 ===========
