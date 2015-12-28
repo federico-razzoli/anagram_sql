@@ -1,3 +1,13 @@
+NOTE
+====
+
+This project moved to the sql_games repository:
+
+https://github.com/santec/sql_games
+
+This repository is no more maintained.
+
+
 anagram_sql
 ===========
 
